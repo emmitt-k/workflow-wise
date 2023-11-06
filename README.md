@@ -1,6 +1,6 @@
 # WorkFlowWise : Job Submission & Internal Workflow Management
 
-Job Submission & Internal Workflow Management is a comprehensive web-based application designed to streamline and enhance the internal part inspection and workflow management process within the organization. This application leverages a range of technologies to offer a user-friendly and efficient platform for managing job submissions, tracking, and communication between supervisors and technicians.
+WorkFlowWise is a comprehensive web-based application designed to streamline and enhance the internal part inspection and workflow management process within the organization. This application leverages a range of technologies to offer a user-friendly and efficient platform for managing job submissions, tracking, and communication between supervisors and technicians.
 
 ## Features
 
