@@ -8,27 +8,17 @@ The "Job Submission & Internal Workflow Management" application offers a compreh
 
 1. **Efficient Job Submission**: Streamline the submission of internal part inspection requests using a user-friendly in-app form. Each submission is assigned a unique job tracking number, facilitating efficient tracking and management.
 
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/WorkflowWise/2.jpg" width="400">
-
 2. **Printable Request Details**: Generate printable request details, complete with QR codes, for easy attachment to inspection part containments. This feature ensures seamless tracking and reference.
 
 3. **QR Code Integration**: Accept incoming inspection parts into the laboratory with ease by scanning QR codes. This simplifies the tracking process and enhances accuracy.
 
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/WorkflowWise/4.jpg" width="400">
-
 4. **Real-time Job Monitoring**: Empower lab technicians with the ability to monitor ongoing inspection jobs in real-time. The application automatically updates job statuses, ensuring transparency and accountability.
-
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/WorkflowWise/3.jpg" width="400">
 
 5. **Assignment and Communication**: Supervisors can assign inspection jobs to technicians using an intuitive in-app form. This creates comprehensive job documents with specific details. Additionally, a collaborative communication space, reminiscent of social media, allows supervisors and technicians to interact within the same platform, facilitating easy follow-up and updates.
 
 6. **Job Timer**: Keep track of the time spent on each inspection job by each technician. Initiate time tracking with the click of a button and mark job completion when finished. The application automatically calculates time usage and Turnaround Time (TAT), promoting efficient workflow management.
 
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/WorkflowWise/5.jpg" width="400">
-
 7. **Notification System**: Stay informed and up-to-date with an in-app notification system and email notifications. Receive timely updates and important messages related to the inspection process.
-
-<img src="https://github-emmitt-markdown.s3.ap-southeast-1.amazonaws.com/WorkflowWise/6.jpg" width="400">
 
 These features collectively enhance the efficiency, transparency, and communication within the organization's internal part inspection and workflow management.
 
